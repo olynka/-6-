@@ -969,7 +969,7 @@ margin-bottom: 4px;
 color: #757575;
 }
 .input-name{
-  margin-bottom: 28px;
+  margin-bottom: 10px;
 }
 .textarea-imput{
 width: 448px;
@@ -990,6 +990,7 @@ resize: none;}
   left: 12px;
 top: 50%;
 transform: translateY(-50%);
+fill:var(--predominant-titl-color);
 }
 .modal-input:focus,
 .modal-input:hover
@@ -1016,6 +1017,7 @@ fill: var(--hover-kolor);
 .modal-input{
 cursor: pointer;
 outline: transparent;
+
 }
 .modal-check-text{
   font-weight: 400;
